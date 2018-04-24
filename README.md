@@ -3,3 +3,4 @@
 #### Module 1 Lecture Code and Videos
 
 * 01 [Hashketball Review](https://youtu.be/MINUrRLCWtM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/01-hasketball-review)  
+* 02 Hashes and APIs | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/02-hashes-and-apis)
