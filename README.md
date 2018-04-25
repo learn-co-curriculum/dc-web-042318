@@ -4,3 +4,4 @@
 
 * 01 [Hashketball Review](https://youtu.be/MINUrRLCWtM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/01-hasketball-review)  
 * 02 [Hashes and APIs](https://youtu.be/F61WyHVPnfA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/02-hashes-and-apis)
+* 03 [Intro to OO](https://youtu.be/OJMkqWYjtFU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/03-intro-to-oo)
