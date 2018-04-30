@@ -5,6 +5,6 @@
 * 01 [Hashketball Review](https://youtu.be/MINUrRLCWtM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/01-hasketball-review)  
 * 02 [Hashes and APIs](https://youtu.be/F61WyHVPnfA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/02-hashes-and-apis)
 * 03 [Intro to OO](https://youtu.be/OJMkqWYjtFU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/03-intro-to-oo)
+* 03b [OO Review Code](https://github.com/learn-co-students/dc-web-042318/tree/master/05-oo-review)
 * 04 [One to Many](https://www.youtube.com/watch?v=fugImeZxeKI) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/04-one-to-many)
-* 05 [OO Review Code](https://github.com/learn-co-students/dc-web-042318/tree/master/05-oo-review)
 * 05 [Many to Many](https://www.youtube.com/edit?o=U&video_id=OQHwDIFgir0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/05-many-to-many)
