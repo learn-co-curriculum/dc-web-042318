@@ -11,13 +11,13 @@
 
 #### Blog Presentation Schedule
 
-May 10th - Richard, Adam, Josh, Kasia
-May 17th - Deep, Munir, Amy Lou, Lucas, Brittany
-May 24th - Richard, Adam, Josh, Kasia
-May 31st - Deep, Munir, Amy Lou, Lucas, Brittany 
-June 7th - Richard, Adam, Josh, Kasia
-June 14th - Deep, Munir, Amy Lou, Lucas, Brittany
-June 21st - Richard, Adam, Josh, Kasia
-June 28th - Deep, Munir, Amy Lou, Lucas, Brittany
-July 5th - Richard, Adam, Josh, Kasia
-July 12th - Deep, Munir, Amy Lou, Lucas, Brittany
+May 10th - Richard, Adam, Josh, Kasia   
+May 17th - Deep, Munir, Amy Lou, Lucas, Brittany   
+May 24th - Richard, Adam, Josh, Kasia   
+May 31st - Deep, Munir, Amy Lou, Lucas, Brittany  
+June 7th - Richard, Adam, Josh, Kasia  
+June 14th - Deep, Munir, Amy Lou, Lucas, Brittany  
+June 21st - Richard, Adam, Josh, Kasia  
+June 28th - Deep, Munir, Amy Lou, Lucas, Brittany  
+July 5th - Richard, Adam, Josh, Kasia  
+July 12th - Deep, Munir, Amy Lou, Lucas, Brittany  
