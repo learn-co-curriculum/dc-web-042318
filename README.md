@@ -9,6 +9,7 @@
 * 04 [One to Many](https://www.youtube.com/watch?v=fugImeZxeKI) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/04-one-to-many)
 * 05 [Many to Many](https://www.youtube.com/edit?o=U&video_id=OQHwDIFgir0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/05-many-to-many)
 * 06 [Intro to SQL](https://youtu.be/NMErFG7HZrs) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/06-intro-to-sql)  
+* 07 [Intro to ORM](https://www.youtube.com/M75IxyRF2j0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/07-intro-to-orms)
 
 #### Blog Presentation Schedule
 
