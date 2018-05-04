@@ -11,6 +11,7 @@
 * 06 [Intro to SQL](https://youtu.be/NMErFG7HZrs) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/06-intro-to-sql)  
 * 07 [Intro to ORM](https://www.youtube.com/M75IxyRF2j0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/07-intro-to-orms)
 * 08 [Object Architecture](https://youtu.be/KW_cVEcmjMY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/08-oo-architecture)  
+* 10 [Intro to Active Record](https://www.youtube.com/watch?v=TOYFjiNsHZQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/10-intro-to-active-record)
 
 #### Blog Presentation Schedule
 
