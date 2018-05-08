@@ -12,7 +12,8 @@
 * 07 [Intro to ORM](https://www.youtube.com/M75IxyRF2j0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/07-intro-to-orms)
 * 08 [Object Architecture](https://youtu.be/KW_cVEcmjMY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/08-oo-architecture)  
 * 10 [Intro to Active Record](https://www.youtube.com/watch?v=TOYFjiNsHZQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/10-intro-to-active-record)
-* 11 [OO Review](https://youtu.be/XDj7BvNtT6Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/11-oo-review)
+* 11 [Active Record Relationships](https://www.youtube.com/edit?o=U&video_id=Q1z-oCTIbdM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/11-active-record-associations)
+* 11b [OO Review](https://youtu.be/XDj7BvNtT6Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/11-oo-review)
 
 #### Blog Presentation Schedule
 
