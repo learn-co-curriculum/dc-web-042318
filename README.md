@@ -13,7 +13,8 @@
 * 08 [Object Architecture](https://youtu.be/KW_cVEcmjMY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/08-oo-architecture)  
 * 10 [Intro to Active Record](https://www.youtube.com/watch?v=TOYFjiNsHZQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/10-intro-to-active-record)
 * 11 [OO Review](https://youtu.be/XDj7BvNtT6Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/11-oo-review)
-* 12 [Active Record Relationships](https://www.youtube.com/edit?o=U&video_id=Q1z-oCTIbdM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/12-active-record-associations)
+* 12 [Active Record Relationships](https://www.youtube.com/watch?v=Q1z-oCTIbdM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/12-active-record-associations)
+* 13 [CLI to Rack](https://www.youtube.com/watch?v=0EV5RQXmAYQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/13-cli-to-rack)
 
 
 #### Blog Presentation Schedule
