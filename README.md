@@ -15,7 +15,8 @@
 * 11 [OO Review](https://youtu.be/XDj7BvNtT6Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/11-oo-review)
 * 12 [Active Record Relationships](https://www.youtube.com/watch?v=Q1z-oCTIbdM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/12-active-record-associations)
 * 13 [CLI to Rack](https://www.youtube.com/watch?v=0EV5RQXmAYQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/13-cli-to-rack)
-* 14 [Intro to Sinatra / MVC - Video to come] | [code](https://github.com/learn-co-students/dc-web-042318/tree/lecture)
+* 14 [Intro to Sinatra / MVC](https://youtu.be/piMXVmtRQX8)| [code](https://github.com/learn-co-students/dc-web-042318/tree/lecture)
+* 15 [Sinatra Forms / Putting the 'CR' in 'CRUD'](https://youtu.be/hooNKxT10Ps ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/15-sinatra-forms)
 
 
 #### Blog Presentation Schedule
