@@ -22,6 +22,7 @@
 * 15 [Sinatra Forms / Putting the 'CR' in 'CRUD'](https://youtu.be/hooNKxT10Ps ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/15-sinatra-forms)
 * 16 [More Sinatra Forms](https://youtu.be/S0RAq3XpafI) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/16-more-sinatra-forms)
 * 17 [Intro To Rails](https://youtu.be/tJurcsItcTA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/17-intro-to-rails)
+* 18 [Rails CRUD / Forms](https://youtu.be/7dAUWWk2BMU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/18-rails-forms)
 
 #### Blog Presentation Schedule
 
