@@ -25,6 +25,7 @@
 * 18 [Rails CRUD / Forms](https://youtu.be/7dAUWWk2BMU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/18-rails-forms)
 * 19 [Rails Associations / Forms](https://youtu.be/egpBYIA5-UM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/19-rails-associations)
 * 20 [Rails Validations](https://youtu.be/E3Xut4Gwdes) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/20-rails-validations)
+* [Review Code](https://github.com/learn-co-students/dc-web-042318/tree/master/review)
 
 #### Blog Presentation Schedule
 
