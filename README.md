@@ -25,7 +25,8 @@
 * 18 [Rails CRUD / Forms](https://youtu.be/7dAUWWk2BMU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/18-rails-forms)
 * 19 [Rails Associations / Forms](https://youtu.be/egpBYIA5-UM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/19-rails-associations)
 * 20 [Rails Validations](https://youtu.be/E3Xut4Gwdes) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/20-rails-validations)
-* [Review Code](https://github.com/learn-co-students/dc-web-042318/tree/master/crud/movie_tracker)
+* [Review Code for CRUD app](https://github.com/learn-co-students/dc-web-042318/tree/master/crud/movie_tracker)
+* 21 [Rails Authentication Pt1a](https://youtu.be/SFBC9PwGzX0)[Pt1b](https://youtu.be/eCPP10CNoaM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/21-authentication-pt-1)
 
 #### Blog Presentation Schedule
 
