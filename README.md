@@ -28,6 +28,7 @@
 * [Review Code for CRUD app](https://github.com/learn-co-students/dc-web-042318/tree/master/crud/movie_tracker)
 * 21 [Rails Authentication Pt1a](https://youtu.be/SFBC9PwGzX0) |[Pt1b](https://youtu.be/eCPP10CNoaM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/21-authentication-pt-1)
 * 22 [Rails Authorization](https://youtu.be/GCT4Vofgbk0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/22-authorization)
+* 23 [Intro to CSS](https://youtu.be/rJHvOao5L_s) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/23-css)
 
 #### Blog Presentation Schedule
 
