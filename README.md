@@ -33,6 +33,7 @@
 
 ## Module 3
 * 24 Intro to JS [video](https://youtu.be/QcLwnHNoczs) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/24-intro-js)
+* 25 JS Functions [video](https://youtu.be/mzZza0lhq5I) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/25-js-functions-and-scope)
 
 #### Blog Presentation Schedule
 
