@@ -30,6 +30,10 @@
 * 22 [Rails Authorization](https://youtu.be/GCT4Vofgbk0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/22-authorization)
 * 23 [Intro to CSS](https://youtu.be/rJHvOao5L_s) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/23-css)
 
+
+## Module 3
+* 24 Intro to JS [video](https://youtu.be/QcLwnHNoczs) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/24-intro-js)
+
 #### Blog Presentation Schedule
 
 May 10th - Richard, Adam, Josh, Kasia   
