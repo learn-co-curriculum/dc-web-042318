@@ -36,6 +36,7 @@
 * 25 JS Functions [video](https://youtu.be/mzZza0lhq5I) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/25-js-functions-and-scope)
 * 26 Loops and Callbacks [video](https://youtu.be/9t3hJop38I4) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/26-loops-and-callbacks)
 * 27 Intro to the DOM [video](https://youtu.be/P1XS66bLMho) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/27-intro-to-the-dom)
+* 28 Event Listners [video](https://youtu.be/NnbM_CPCLXw) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/28-event-listeners)
 
 #### Blog Presentation Schedule
 
