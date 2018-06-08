@@ -39,7 +39,7 @@
 * 28 Event Listeners [video](https://youtu.be/NnbM_CPCLXw) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/28-event-listeners)
 * 29 DOM Challenge Lab Review [video](https://youtu.be/wkCcdh__5_s) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/29-DOM-Challenge-lab-review)
 * 30 Fetch and Async [video](https://youtu.be/F9VOiMgHkvw) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/30-fetch-and-async)
-* 31 Fetch and Post [video to come] | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/31-fetch-and-post)
+* 31 Fetch and Post [video](https://youtu.be/1jvtdnp33cc) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/31-fetch-and-post)
 
 #### Blog Presentation Schedule
 
