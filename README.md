@@ -41,6 +41,7 @@
 * 30 Fetch and Async [video](https://youtu.be/F9VOiMgHkvw) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/30-fetch-and-async)
 * 31 Fetch and Post [video](https://youtu.be/1jvtdnp33cc) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/31-fetch-and-post)
 * 32 This, Call, Bind, Apply [video](https://youtu.be/K9WytOdSlYI) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/32-this-context)
+* 33 Object Oriented JS [video](https://youtu.be/YjS_ei_QrNg) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/33-oo-js)
 
 #### Blog Presentation Schedule
 
