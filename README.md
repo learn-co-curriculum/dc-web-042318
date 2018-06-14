@@ -44,6 +44,7 @@
 * 33 Object Oriented JS [video](https://youtu.be/YjS_ei_QrNg) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/33-oo-js)
 * 34 Javascript Review [video](https://youtu.be/kV4H_H2-_QY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/34-js-review)
 * 35 Rails API [video pt. 1](https://youtu.be/jQq0xezwM-U) [pt. 2](https://youtu.be/SGXiqCiyDCk) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/35-rails-api)
+* 36 Monster Challenge Lab Review [video](https://youtu.be/v8TG_cDxGj4) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/36-Monster-Challenge-Review)
 
 #### Blog Presentation Schedule
 
