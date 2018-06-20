@@ -57,5 +57,5 @@ June 7th - Deep, Richard, Adam, Josh, Kasia
 June 14th - Munir, Lucas, Max  
 June 21st - Richard, Adam, Josh, Kasia, Deep, Brittany  
 June 28th - Deep, Munir, Lucas, Brittany  
-July 10th - Richard, Adam, Josh, Kasia  
+**July 10th - Richard, Adam, Josh, Kasia**
 July 12th - Deep, Munir, Lucas, Brittany  
