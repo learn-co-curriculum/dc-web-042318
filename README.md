@@ -47,6 +47,7 @@
 * 36 Monster Challenge Lab Review [video](https://youtu.be/v8TG_cDxGj4) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/36-Monster-Challenge-Review)
 * 37 TIPS Spreadsheet Savior [video](https://youtu.be/WlRaz1V6x_Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/37-TIPS-spreadsheet-savior)
 * 38 Intro to React [video](https://youtu.be/G83SRjxJoVQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/38-intro-react-jsx)
+* 39 React Props [video](https://youtu.be/grhTybU3MkY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/39-react-props)
 
 #### Blog Presentation Schedule
 
