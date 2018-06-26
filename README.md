@@ -48,6 +48,7 @@
 * 37 TIPS Spreadsheet Savior [video](https://youtu.be/WlRaz1V6x_Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/37-TIPS-spreadsheet-savior)
 * 38 Intro to React [video](https://youtu.be/G83SRjxJoVQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/38-intro-react-jsx)
 * 39 React Props [video](https://youtu.be/grhTybU3MkY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/39-react-props)
+* 40 React State [video](https://youtu.be/mkWSdXgOEtg) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/40-react-state)
 
 #### Blog Presentation Schedule
 
