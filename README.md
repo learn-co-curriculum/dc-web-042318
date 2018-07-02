@@ -52,6 +52,7 @@
 * 41 More Thinking in React [video](https://youtu.be/x_14CsoCpBo) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/41-more-thinking-in-react)
 * 42 Hogs Lab Review [video](https://youtu.be/H-rW9vza--c) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/42-hogs-review/hogzzz)
 * 43 Component Lifecycle [video](https://youtu.be/ijBiqf2yLFA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/43-component-lifecycle)
+* 44 React App from Scratch [video](https://youtu.be/QjWoCG6n5ZA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/44-react-app-from-scratch/apple-music-store)
 
 #### Blog Presentation Schedule
 
