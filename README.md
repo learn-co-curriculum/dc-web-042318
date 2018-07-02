@@ -51,6 +51,7 @@
 * 40 React State [video](https://youtu.be/mkWSdXgOEtg) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/40-react-state)
 * 41 More Thinking in React [video](https://youtu.be/x_14CsoCpBo) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/41-more-thinking-in-react)
 * 42 Hogs Lab Review [video](https://youtu.be/H-rW9vza--c) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/42-hogs-review/hogzzz)
+* 43 Component Lifecycle [video](https://youtu.be/ijBiqf2yLFA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/43-component-lifecycle)
 
 #### Blog Presentation Schedule
 
@@ -61,5 +62,5 @@ May 31st - Munir, Lucas, Brittany, Kasia
 June 7th - Deep, Richard, Adam, Josh, Kasia  
 June 14th - Munir, Lucas, Max  
 June 21st - Richard, Adam, Josh, Deep, Brittany  
-July 10th - Kasia, Munir, Lucas, Richard, Adam, Josh 
+July 10th - Kasia, Munir, Lucas, Richard, Adam, Josh
 July 12th - Deep, Munir, Lucas, Brittany  
