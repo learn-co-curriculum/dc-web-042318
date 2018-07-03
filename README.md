@@ -46,6 +46,8 @@
 * 35 Rails API [video pt. 1](https://youtu.be/jQq0xezwM-U) [pt. 2](https://youtu.be/SGXiqCiyDCk) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/35-rails-api)
 * 36 Monster Challenge Lab Review [video](https://youtu.be/v8TG_cDxGj4) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/36-Monster-Challenge-Review)
 * 37 TIPS Spreadsheet Savior [video](https://youtu.be/WlRaz1V6x_Q) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/37-TIPS-spreadsheet-savior)
+
+## Module 4
 * 38 Intro to React [video](https://youtu.be/G83SRjxJoVQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/38-intro-react-jsx)
 * 39 React Props [video](https://youtu.be/grhTybU3MkY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/39-react-props)
 * 40 React State [video](https://youtu.be/mkWSdXgOEtg) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/40-react-state)
@@ -54,7 +56,7 @@
 * 43 Component Lifecycle [video](https://youtu.be/ijBiqf2yLFA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/43-component-lifecycle)
 * 44 React App from Scratch [video](https://youtu.be/QjWoCG6n5ZA) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/44-react-app-from-scratch/apple-music-store)
 * 45 React Router [video](https://youtu.be/RidSLvtuAi0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/45-react-router)
-
+* 46 Boozer Review [video](https://www.youtube.com/watch?v=acH90qI4wVE&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/46-Boozer-review)
 #### Blog Presentation Schedule
 
 May 10th - Richard, Adam, Josh, Kasia   
