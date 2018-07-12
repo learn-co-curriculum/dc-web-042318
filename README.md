@@ -58,6 +58,7 @@
 * 45 React Router [video](https://youtu.be/RidSLvtuAi0) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/45-react-router)
 * 46 Boozer Review [video](https://www.youtube.com/watch?v=acH90qI4wVE&feature=youtu.be) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/46-Boozer-review)
 * 47 JWT Auth [video pt 1](https://youtu.be/X5M_lwtzcTo) [video pt 2](https://youtu.be/ttF6wCf9u34) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/47-jwt-auth)
+* 48 Intro to Redux [video](https://youtu.be/C9GVOah5doY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/48-intro-to-redux)
 
 
 #### Blog Presentation Schedule
