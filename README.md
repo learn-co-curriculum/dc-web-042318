@@ -71,6 +71,6 @@ May 31st - Munir, Lucas, Brittany, Kasia
 June 7th - Deep, Richard, Adam, Josh, Kasia  
 June 14th - Munir, Lucas, Max  
 June 21st - Richard, Adam, Josh, Deep, Brittany
-July 12th - Kasia, Munir, Lucas, Julio
-July 19th - Richard, Adam, Josh, Max
+July 12th - Kasia, Munir, Lucas, Max
+July 19th - Richard, Adam, Josh, Julio
 July 26th - Munir, Lucas, Julio, Kasia  
