@@ -60,6 +60,8 @@
 * 47 JWT Auth [video pt 1](https://youtu.be/X5M_lwtzcTo) [video pt 2](https://youtu.be/ttF6wCf9u34) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/47-jwt-auth)
 * 48 Intro to Redux [video](https://youtu.be/C9GVOah5doY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/48-intro-to-redux)
 * 49 React Redux [video](https://youtu.be/Tdm26MRTcHM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/49-react-redux)
+* 50 Redux Thunk [video](https://youtu.be/GjjmcXvUivQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/50-redux-thunk)
+* 51 What to expect in mod 5 [video](https://youtu.be/aH84mRVnLic)
 
 
 #### Blog Presentation Schedule
