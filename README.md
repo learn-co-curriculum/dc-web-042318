@@ -62,6 +62,7 @@
 * 49 React Redux [video](https://youtu.be/Tdm26MRTcHM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/49-react-redux)
 * 50 Redux Thunk [video](https://youtu.be/GjjmcXvUivQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/50-redux-thunk)
 * 51 What to expect in mod 5 [video](https://youtu.be/aH84mRVnLic)
+* 52 Deployment [video](https://youtu.be/uBbExecT5qU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/51-deployment)
 
 
 #### Blog Presentation Schedule
