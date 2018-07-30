@@ -65,7 +65,6 @@
 * 51 Deployment [video](https://youtu.be/uBbExecT5qU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/51-deployment)
 * 52 Testing in React [video](https://youtu.be/xltmpVQmDtc) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/52-testing-in-react)
 
-
 #### Blog Presentation Schedule
 
 May 10th - Richard, Adam, Josh, Kasia   
