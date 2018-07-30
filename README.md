@@ -61,8 +61,9 @@
 * 48 Intro to Redux [video](https://youtu.be/C9GVOah5doY) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/48-intro-to-redux)
 * 49 React Redux [video](https://youtu.be/Tdm26MRTcHM) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/49-react-redux)
 * 50 Redux Thunk [video](https://youtu.be/GjjmcXvUivQ) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/50-redux-thunk)
-* 51 What to expect in mod 5 [video](https://youtu.be/aH84mRVnLic)
-* 52 Deployment [video](https://youtu.be/uBbExecT5qU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/51-deployment)
+* 50.5 What to expect in mod 5 [video](https://youtu.be/aH84mRVnLic)
+* 51 Deployment [video](https://youtu.be/uBbExecT5qU) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/51-deployment)
+* 52 Testing in React [video](https://youtu.be/xltmpVQmDtc) | [code](https://github.com/learn-co-students/dc-web-042318/tree/master/52-testing-in-react)
 
 
 #### Blog Presentation Schedule
